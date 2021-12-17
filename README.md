@@ -3,8 +3,8 @@
 </a>
 </p>
 <p align="center">
-  <a href="https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/SenuGamerBoy/Auto-Movie-Filter-Bot?style=social">
+  <a href="https://github.com/BruceWayne222/Auto-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/BruceWayne222/Auto-Filter-Bot?style=social">
 
   </a>
   
