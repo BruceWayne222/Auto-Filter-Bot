@@ -30,7 +30,7 @@
 ## Installation 👇
 
 ### Easy Way 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BruceWayne222/Auto-Filter-Bot)
 ### Hard Way
 
 
@@ -39,16 +39,16 @@
 
 
 ## Support ☎
-Contact Me On [Telegram](https://t.me/senuinfinity)
+Contact Me On [Telegram](https://t.me/MHSLsupport)
 
-[Update Channel](https://t.me/senuinfinity)
+
 
 ## This Is Original Repo Link 💖
 
-* Original [Repo](https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
+* Original [Repo](https://github.com/BruceWayne222/Auto-Filter-Bot)
 
-## Full Tutorial
-* Tutorial Link [view on youtube](https://youtu.be/62PNPsQwIZ8)
+
+
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
