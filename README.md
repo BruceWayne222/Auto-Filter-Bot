@@ -8,8 +8,8 @@
 
   </a>
   
-  <a href="https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/SenuGamerBoy/Auto-Movie-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/BruceWayne222/Auto-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/BruceWayne222/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
