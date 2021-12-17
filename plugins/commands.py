@@ -196,7 +196,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             InlineKeyboardButton('Channel', url='https://t.me/MovieHubSLC'),
-            InlineKeyboardButton('Group', url='https://t.me/MovieHub_SL)
+            InlineKeyboardButton('Group', url='https://t.me/MovieHub_SL')
         ]
         ]
     await message.reply(text=f"<b>➻👨‍💻 Developer : <a href='https://t.me/MHSLsupport'>Jason Todd</a>\n➻Language : <code>Python3</code>\n➻Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\n➻Main Channel : <a href='https://t.me/MovieHubSLC'>Movie Hub SLC 🎬</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
