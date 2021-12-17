@@ -199,4 +199,4 @@ async def bot_info(bot, message):
             InlineKeyboardButton('Group', url='https://t.me/MovieHub_SL)
         ]
         ]
-    await message.reply(text=f"<b>👨‍💻 Developer : <a href='https://t.me/senuinfinity'>SUBIN</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='{TUTORIAL}'>Click here</a>\nUpdate Channel : <a href='https://t.me/senuinfinity'>Mo Tech YT</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+    await message.reply(text=f"<b>➻👨‍💻 Developer : <a href='https://t.me/MHSLsupport'>Jason Todd</a>\n➻Language : <code>Python3</code>\n➻Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\n➻Main Channel : <a href='https://t.me/MovieHubSLC'>Movie Hub SLC 🎬</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
